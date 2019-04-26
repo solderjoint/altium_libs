@@ -1,0 +1,22 @@
+Missing:
+	
+	Schematic>	TKE/TKC					[temperature koefficient: +5ppm/C]
+	Schematic>	TU/GOST					[technical info]
+	//Schematic>	Comment					(cannot be added)
+	
+	Schematic>	move some components exactly to the 2mm grid
+	
+	Schematic>	whole power-diode lib REDO
+
+	PCB>	capacitors additional 'small and thin' pads
+	PCB>	quartz model not on mech-1
+	
+	PCB3D>	3D models of DO-41 e.t.c.
+
+Текущие баги:
+	PCB>	JMP3-2.54 wrong pin spacing, pin numeration
+	PCB>	FC001S 1.5mm HOLE
+	PCB>	optocouple model change to 3..4mm height
+	PCB>	add copper pins?
+	
+	PCB>	standartize all drilling holes (0.3, 0.6, 0.9, 1.2, 1.5, 1.8)
