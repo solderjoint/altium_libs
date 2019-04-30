@@ -1,0 +1,6 @@
+"LIBRARYREFERENCE","FOOTPRINT1","FOOTPRINT2","COMMENT","MANUFACTURERPARTNUMBER","NAME","REVISIONDATE","SHEETPART","DESIGNATOR","DESCRIPTION"
+"AD8512AR","SOIC-8","MSOP-8/0.65mm","=Name","AD8512AR Operational Amplifier","AD8512AR","*","","DA?","30V 8MHz 20V/us"
+"AD8551AR","SOIC-8","","=Name","AD8551AR Operational Amplifier","AD8551AR","*","","DA?","Rail-to-Rail 5.5V 1MHz 0.5V/us"
+"LM324","SOIC-14","DIP-14","=Name","LM324 Operational Amplifier","LM324","*","","DA?","36V 0.7MHz 0.3V/us"
+"LM358","SOIC-8","DIP-8","=Name","LM358 Operational Amplifier","LM358","*","","DA?","36V 0.7MHz 0.3V/us"
+"TL082C","SOIC-8","MSOP-8/0.65mm","=Name","TL082C Operational Amplifier","TL082C","*","","DA?","30V 4MHz 13V/us"

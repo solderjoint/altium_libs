@@ -1,0 +1,12 @@
+CSV text has been written to file : ic_opamp.csv
+
+Library Component Count : 5
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+AD8512AR            30V 8MHz 20V/us
+AD8551AR            Rail-to-Rail 5.5V 1MHz 0.5V/us
+LM324               36V 0.7MHz 0.3V/us
+LM358               36V 0.7MHz 0.3V/us
+TL082C              30V 4MHz 13V/us
